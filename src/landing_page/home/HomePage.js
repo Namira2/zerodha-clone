@@ -10,14 +10,14 @@ import Footer from '../Footer';
 const HomePage = () => {
   return (
    <>
-      <Navbar />
+     
       <Hero />
       <Awards />
       <Stats />
       <Pricing />
       <Education />
       <OpenAccount />
-      <Footer />
+      
 
    </>
   )
